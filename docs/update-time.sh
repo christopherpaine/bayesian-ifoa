@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Path to your HTML file
-HTML_FILE="index.html"
+HTML_FILE="/home/chris-jakoolit/bayesian-ifoa/docs/index.html"
 
 # Get current date and time in desired format
 NEW_TIMESTAMP=$(date +"%A %dth %H:%M%P")
