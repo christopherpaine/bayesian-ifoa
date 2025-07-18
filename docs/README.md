@@ -11,7 +11,7 @@ all work is done withing a linux NixOs build using Hyprland window manager.  Nix
 ### editor_
 The editor of choice is neovim.  More specifically it is a nix build of neovim using the well regarded kickstart programme.  i have made a few customisations re: keyboard mappings and plugins.  the full repo is a public fork on my github account. This is used to edit .py and .tex files for the jupyter notebook and pdf research paper respectively.  
 ### scripts
-this is couched with a number of bash scripts to produce realtime conversions to ipynb, html, pdf etc.  html pages are served using a simple flask app.  there is also a small amount of api integration with chatgpt.  if anyone is interested in the workflow (and enjoys discussing such things) give me a shout.  
+this is couched with a number of bash scripts to produce realtime conversions to ipynb, html, pdf etc.  html pages are served using a simple flask app for realtime re-rendering of file updates.  there is also a small amount of api integration with chatgpt.  if anyone is interested in the workflow (and enjoys discussing such things) give me a shout.  
 ### final thoughts
 i have not put the files up here yet mainly as it would detract from the analysis, which is the ultimate aim.  however as the workflow develops, and becomes more efficient, i may do so if i think it would be of wider interest.  either way happy to discuss and cross fertlise ideas in this respect.
 
