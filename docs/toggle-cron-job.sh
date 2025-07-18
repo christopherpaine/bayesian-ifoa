@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Path to the script you want to run
-SCRIPT_PATH="/home/chris-jakoolit/bayesian-ifoa/docs/"
+SCRIPT_PATH="/home/chris-jakoolit/bayesian-ifoa/docs/copy-files-across.sh"
 
 # Cron schedule
 CRON_LINE="*/15 * * * * $SCRIPT_PATH"
